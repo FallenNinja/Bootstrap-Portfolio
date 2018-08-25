@@ -1,0 +1,83 @@
+.navbartext {
+    background-color: #4CAF50;
+    font-family: 'Coda Caption', sans-serif;
+}
+
+.navbar-nav {
+    border-bottom: 15px;
+    border-color: #4CAF50;
+}
+
+.footer {
+    position: initial;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #333;
+    margin-top: 5%;
+}
+
+.navtextnexttologo {
+    text-align: right;
+    float: right;
+}
+
+#contactbox {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#contactbox2 {
+    margin-top: 5%;
+    margin-bottom: 8.1%;
+}
+
+p {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+a {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+label {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+::placeholder, #portfolioheader, {
+    font-family: 'Coda Caption', sans-serif;
+}
+
+h1 {
+    font-family: 'Coda Caption', sans-serif;
+    color: white;
+}
+
+.porimg {
+    float: left;
+    box-shadow: #333;
+    margin: 50px 80px 15px 80px;
+  }
+
+h6 {
+    padding: 25px;
+    background-color: #4CAF50;
+    position: relative;
+    color: white;
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 36px;
+    bottom: 150px;
+    z-index: 100;
+    margin: 0px;
+}
+
+/* .footerPortfolio {
+    position: static;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #333;
+    margin-top: 50px;
+} */
